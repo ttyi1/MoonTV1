@@ -12,7 +12,7 @@
       "detail": "https://heimuer.tv"
     },
     "ruyi": {
-      "api": "https://cj.rycjapi.com/api.php/provide/vod",
+      "api": "https://cj.rycjapi.com/api.php/provide/vod",  
       "name": "如意资源"
     },
     "bfzy": {
@@ -85,8 +85,8 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",   
       "name": "小猫咪资源"
     },
-        "huangse": {   
-      "api": "https://hsckzy.vip/api.php/provide/vod/from/hsckm3u8/at/xmlsea/",           
-      "name": "黄色仓库资源"
+        "91md": {     
+      "api": "https://91md.me/api.php/provide/vod/",                 
+      "name": "麻豆视频"
   }
 }
