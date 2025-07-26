@@ -16,7 +16,7 @@
       "name": "如意资源"
     },
     "bfzy": {
-      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "api": "https://bfzyapi.com/api.php/provide/vod",  
       "name": "暴风资源"
     },
     "tyyszy": {
@@ -33,7 +33,7 @@
       "name": "360资源"
     },
     "maotaizy": {
-      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",  
       "name": "茅台资源"
     },
     "wolong": {
@@ -82,11 +82,11 @@
       "name": "量子资源站"
     },
     "xiaomaomi": {  
-      "api": "https://zy.xmm.hk/api.php/provide/vod",  
+      "api": "https://zy.xmm.hk/api.php/provide/vod",   
       "name": "小猫咪资源"
     },
-        "huangse": {    
-      "api": "https://hsckzy888.com/api.php/provide/vod/from/hsckyun/at/xml/",    
+        "huangse": {   
+      "api": "https://hsckzy.vip/api.php/provide/vod/from/hsckm3u8/at/xmlsea/",           
       "name": "黄色仓库资源"
   }
 }
